@@ -1,5 +1,6 @@
 body {
-  font-family: karla !important;
+  /* font-family: karla !important; */
+  font-family: 'Nunito', sans-serif !important;
 }
 
 .toggler {
@@ -77,6 +78,7 @@ body {
 
 .card {
   border: solid #17e9e0 4px;
+  filter: drop-shadow(20px 8px 4px #868686);
 }
 
 .card:hover {
